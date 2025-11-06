@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankito-13
-- 👀 I’m interested in  ai, machine learning and robotices
-- 🌱 I’m currently learning python
+- 👀 I’m interested in  cyber security, vr and robotices
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
